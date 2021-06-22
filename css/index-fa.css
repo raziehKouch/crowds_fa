@@ -383,8 +383,8 @@ a:hover{
 #translations{
 	position: absolute;
     top: 12px;
-    left: calc(50% - 400px);
-    width: 800px;
+    left: calc(50% - 425px);
+    width: 850px;
     text-align: center;
     color: #fff;
     font-size: 15px;
