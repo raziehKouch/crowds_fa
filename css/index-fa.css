@@ -5,6 +5,12 @@
 	font-weight: 400;
 	src: url(PatrickHand-Regular.ttf) format('truetype');
 }
+@font-face {
+	font-family: "B Koodak";
+	font-style: normal;
+	font-weight: 400;
+	src: url(B Koodak.ttf) format('truetype');
+}
 
 /* HTML & BODY */
 html, body{
